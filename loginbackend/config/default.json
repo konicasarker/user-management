@@ -1,0 +1,5 @@
+{
+    "mongoURI" : "mongodb+srv://konica123:konica123@cluster0.pdlk9.mongodb.net/users?retryWrites=true&w=majority",
+    "jwtSecret" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+
+}

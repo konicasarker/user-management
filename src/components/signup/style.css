@@ -1,0 +1,41 @@
+@media all and (min-width: 350px) {
+    .signup-wrapper{
+      margin: 60px;
+      margin-top: 3%;
+      display: flex;
+      justify-content: center;
+      
+    }
+
+    .signup-header{
+      display: flex;
+      flex-direction: row;
+      justify-content: left;
+    }
+
+    .signup-modal{
+      width: 70%;
+      background-color: rgb(215, 231, 247);
+      box-shadow: 1px 2px #cbd4d8;
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      padding: 70px;
+      padding-top: 20px;;
+    }
+
+    .signupIcon{
+      width: 200px;
+      height: 200px;
+    }
+
+    .signuptitle{
+      margin-top: 90px;
+      font-weight: 600;
+      font-size: 35px;
+      font-family: Verdana (sans-serif);
+      color: rgba(49, 107, 67, 0.979)
+
+    }
+
+  }

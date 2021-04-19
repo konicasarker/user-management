@@ -1,0 +1,47 @@
+
+
+body {
+  background-color: blue;
+  background-image: url("bgf.jpeg")
+}
+
+.landingPageContainer{
+  margin-top:5%;
+  height: 100% !important;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: white;
+}
+
+@media screen and (max-width: 1500px) {
+  .landingPageContainer  {
+    margin-left: 5%;
+    margin-right: 0%;
+  }
+}
+
+.landingPageBg{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.landing-text-container{
+  margin-right: 2%;
+  width: 50%;
+  /* border: 2px solid red; */
+
+}
+
+.landing-image-container{
+  margin-left: 25px;
+  /* border: 2px solid red; */
+}
+
+.jumbotrol-css{
+  background-color: white;
+}
+
+.footer{
+  margin-bottom: 5px;
+}
