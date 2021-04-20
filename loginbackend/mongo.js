@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoPath = 'mongodb+srv://konica123:konica123@cluster0.pdlk9.mongodb.net/users?retryWrites=true&w=majority';
+const mongoPath = '';
 
 
 module.exports = async () => {
