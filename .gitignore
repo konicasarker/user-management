@@ -4,4 +4,4 @@ node_modules
 .env.development
 /loginbackend/.env
 .DS_Store
-/loginbackend/config/default.json
+/loginbackend/config/default_2.json
