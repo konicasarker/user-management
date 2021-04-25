@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+
 const mongoPath = REACT_APP_DATABASE_ACCESS
 
 module.exports = async () => {
