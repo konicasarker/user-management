@@ -1,0 +1,7 @@
+/node_modules
+node_modules
+/loginbackend/node_modules
+.env.development
+/loginbackend/.env
+.DS_Store
+/loginbackend/config/default.json
